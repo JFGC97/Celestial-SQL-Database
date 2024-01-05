@@ -1,4 +1,4 @@
-# Build-a-World-Cup-Database
+# Build-a-Celestial-Bodies-Database
 Description: For this project, you will build a database of celestial bodies using PostgreSQL.
 
 universe.sql - database dump;
